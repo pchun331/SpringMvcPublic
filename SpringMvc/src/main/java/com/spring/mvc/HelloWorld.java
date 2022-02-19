@@ -6,5 +6,6 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("Commit from spring_mvc_2");
 		System.out.println("Second commit from spring_mvc_2");
+		System.out.println("3rd commit from spring_mvc_2");
 	}
 }
