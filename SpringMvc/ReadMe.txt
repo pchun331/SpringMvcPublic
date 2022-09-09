@@ -9,3 +9,4 @@ Running the program from the Command Prompt 220219
 	
 	- Alternatively: you can use the Spring Initializer maven wrapper 
 		- exec: ./mvnw clean spring-boot:run
+		- more
